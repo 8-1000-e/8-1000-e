@@ -59,9 +59,3 @@ mtnDAO 2026-1 · Solana Breakpoint 2025
 | **Scraping** | Python · Puppeteer · Custom pipelines |
 
 ---
-
-<p align="center">
-  <a href="https://github.com/8-1000-e">
-    <img src="https://github-readme-stats-alpha-ruby-57.vercel.app/api?username=8-1000-e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  </a>
-</p>
