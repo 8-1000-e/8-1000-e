@@ -9,12 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/8-1000-e">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=8-1000-e&show_icons=true&hide=stars,contribs,commits"
-      alt="GitHub stats de 8-1000-e"
-    />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8-1000-e&theme=tokyonight&hide_border=true" alt="Streak" width="70%" />
 </div>
 
 <p align="center">
