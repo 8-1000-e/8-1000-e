@@ -8,7 +8,14 @@
   <b>Available for work</b>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8-1000-e)](https://github.com/8-1000-e/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/8-1000-e">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=8-1000-e&show_icons=true&include_all_commits=true&hide=stars,contribs"
+      alt="GitHub stats de 8-1000-e"
+    />
+  </a>
+</div>
 
 <p align="center">
   <code>Rust</code> · <code>TypeScript</code> · <code>C</code> · · <code>Nest</code> · <code>C++</code> · <code>Solana</code> · <code>Anchor</code> · <code>BOLT/ECS</code>
