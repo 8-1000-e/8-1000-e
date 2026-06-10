@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-tawny-tau.vercel.app/?user=8-1000-e&theme=tokyonight&hide_border=true&count_private=true" alt="Streak" width="70%" />
+  <img src="https://github-readme-streak-stats-oxdo.vercel.app/?user=8-1000-e&theme=tokyonight&hide_border=true&count_private=true" alt="Streak" width="70%" />
 </div>
 
 <p align="center">
