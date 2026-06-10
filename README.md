@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/8-1000-e">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=8-1000-e&show_icons=true&include_all_commits=true&hide=stars,contribs"
+      src="https://github-readme-stats.vercel.app/api?username=8-1000-e&show_icons=true&hide=stars,contribs,commits"
       alt="GitHub stats de 8-1000-e"
     />
   </a>
