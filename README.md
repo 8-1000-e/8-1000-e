@@ -8,6 +8,8 @@
   <b>Available for work</b>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <code>Rust</code> · <code>TypeScript</code> · <code>C</code> · · <code>Nest</code> · <code>C++</code> · <code>Solana</code> · <code>Anchor</code> · <code>BOLT/ECS</code>
 </p>
