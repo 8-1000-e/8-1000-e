@@ -48,7 +48,7 @@ Trained at 42 | No teachers needed, no hand-holding.
 
 ### Events
 
-mtnDAO 2026-1 · Solana Breakpoint 2025
+The League · mtnDAO 2026-1 · Solana Breakpoint 2025 · BuildStation · CastleDAO 2026
 
 ---
 
