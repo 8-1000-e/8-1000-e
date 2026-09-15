@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <code>Rust</code> · <code>TypeScript</code> · <code>C</code> · · <code>Nest</code> · <code>C++</code> · <code>Solana</code> · <code>Anchor</code> · <code>BOLT/ECS</code>
+  <code>Rust</code> · <code>TypeScript</code> · <code>C</code> · <code>Nest</code> · <code>C++</code> · <code>Solana</code> · <code>Anchor</code> · <code>BOLT/ECS</code>
 </p>
 
 ---
